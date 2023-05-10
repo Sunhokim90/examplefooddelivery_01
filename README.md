@@ -14,13 +14,17 @@
  ![image](https://github.com/Sunhokim90/example-food-delivery/assets/132859955/cfb8324f-9044-4156-80b0-b9339150651e)
 
 3. CQRS
+
  .- Read Model Attributes
  ![image](https://github.com/Sunhokim90/example-food-delivery/assets/132859955/874d406a-032b-45e5-9bd9-ad5d62a4261d)
+
  .- Read Model data Create
  ![image](https://github.com/Sunhokim90/example-food-delivery/assets/132859955/58792bfd-a2fc-4480-9444-7bf1350755ce)
+
  .- Read Model data Update
  ![image](https://github.com/Sunhokim90/example-food-delivery/assets/132859955/4cacf92d-632b-473c-be04-e7b66396370f)
  ![image](https://github.com/Sunhokim90/example-food-delivery/assets/132859955/0bec3afd-c3e9-48a3-be7c-ff2224c4d429)
+ 
  .- Read Model data Delete
  ![image](https://github.com/Sunhokim90/example-food-delivery/assets/132859955/5ef87925-2830-4ecc-8633-a9700e03a55b)
 
