@@ -14,6 +14,7 @@
  ![image](https://github.com/Sunhokim90/example-food-delivery/assets/132859955/cfb8324f-9044-4156-80b0-b9339150651e)
 
 3. CQRS
+
  3-1. Read Model Attributes
   ![image](https://github.com/Sunhokim90/example-food-delivery/assets/132859955/874d406a-032b-45e5-9bd9-ad5d62a4261d)
  
