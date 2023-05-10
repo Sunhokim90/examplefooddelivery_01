@@ -16,17 +16,17 @@
 3. CQRS
 
  3-1. Read Model Attributes
-  ![image](https://github.com/Sunhokim90/example-food-delivery/assets/132859955/874d406a-032b-45e5-9bd9-ad5d62a4261d)
+ ![image](https://github.com/Sunhokim90/example-food-delivery/assets/132859955/874d406a-032b-45e5-9bd9-ad5d62a4261d)
  
  3-2. Read Model data Create
-  ![image](https://github.com/Sunhokim90/example-food-delivery/assets/132859955/58792bfd-a2fc-4480-9444-7bf1350755ce)
+ ![image](https://github.com/Sunhokim90/example-food-delivery/assets/132859955/58792bfd-a2fc-4480-9444-7bf1350755ce)
 
  3-3. Read Model data Update
-  ![image](https://github.com/Sunhokim90/example-food-delivery/assets/132859955/4cacf92d-632b-473c-be04-e7b66396370f)
-  ![image](https://github.com/Sunhokim90/example-food-delivery/assets/132859955/0bec3afd-c3e9-48a3-be7c-ff2224c4d429)
+ ![image](https://github.com/Sunhokim90/example-food-delivery/assets/132859955/4cacf92d-632b-473c-be04-e7b66396370f)
+ ![image](https://github.com/Sunhokim90/example-food-delivery/assets/132859955/0bec3afd-c3e9-48a3-be7c-ff2224c4d429)
 
  3-4. Read Model data Delete
-  ![image](https://github.com/Sunhokim90/example-food-delivery/assets/132859955/5ef87925-2830-4ecc-8633-a9700e03a55b)
+ ![image](https://github.com/Sunhokim90/example-food-delivery/assets/132859955/5ef87925-2830-4ecc-8633-a9700e03a55b)
 
 4. Compensation / Correlation
  ![image](https://github.com/Sunhokim90/example-food-delivery/assets/132859955/5dca6913-d120-4253-bef0-b88c79bcc72a)
